@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
 
 //    private var dialog : Dialog? = null
 //    private var binding : ActivityMainBinding? = null
+    // ok
     private var drawingView : DrawingView? = null
     private var mImageButtonCurrentPaint : ImageButton ? = null
 
