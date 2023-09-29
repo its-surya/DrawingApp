@@ -41,8 +41,7 @@ class MainActivity : AppCompatActivity() {
         ibBrush.setOnClickListener {
             showBrushSizeChooserDialog()
         }
-    }//hii
-
+    }
     private fun showBrushSizeChooserDialog() {
 
         val brushDialog = Dialog(this)
